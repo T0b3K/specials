@@ -1,4 +1,0 @@
-
-ASUS RT-AC68U
-
-![](ASUS-RT-AC68U.png)
